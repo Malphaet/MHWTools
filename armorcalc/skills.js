@@ -28,19 +28,20 @@ var _skills = [
                 { skill: "Master Fisher", points: 1, type: 1, name: "Master Fisher Lv1" },
                 { skill: "Master Gatherer", points: 1, type: 1, name: "Master Gatherer Lv1" },
                 { skill: "Pro Transporter", points: 1, type: 1, name: "Pro Transporter Lv1" },
-                { skill: "Scent Hound", points: 1, type: 1, name: "Scent Hound Lv1" },
+                { skill: "Scent Hound", points: 1, type: 1, name: "Scent Hound Lv1" }
             ]
         },
-		{
-			genre: "sg_health",
-			skills; [
-                { skill: "Scholar", points: 1, type: 1, name: "Scholar Lv1" },
-                { skill: "Scoutfly Range Up", points: 1, type: 1, name: "Scoutfly Range Up Lv1" },
-                { skill: "Speed Crawler", points: 1, type: 1, name: "Speed Crawler Lv1" },
-                { skill: "Sporepuff Expert", points: 1, type: 1, name: "Sporepuff Expert Lv1" },
-                { skill: "Sporepuff Expert", points: 2, type: 1, name: "Sporepuff Expert Lv2" },
-                { skill: "Sporepuff Expert", points: 3, type: 1, name: "Sporepuff Expert Lv3" },
-			]
+    		{
+      			genre: "sg_health",
+      			skills: [
+                      { skill: "Scholar", points: 1, type: 1, name: "Scholar Lv1" },
+                      { skill: "Scoutfly Range Up", points: 1, type: 1, name: "Scoutfly Range Up Lv1" },
+                      { skill: "Speed Crawler", points: 1, type: 1, name: "Speed Crawler Lv1" },
+                      { skill: "Sporepuff Expert", points: 1, type: 1, name: "Sporepuff Expert Lv1" },
+                      { skill: "Sporepuff Expert", points: 2, type: 1, name: "Sporepuff Expert Lv2" },
+                      { skill: "Sporepuff Expert", points: 3, type: 1, name: "Sporepuff Expert Lv3" }
+      			]
+        },
         {
             genre: "sg_items",
             skills: [
